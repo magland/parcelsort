@@ -1,0 +1,8 @@
+projectName: parcelsort
+pythonProjectVersion: 0.1.0
+projectAuthor: Jeremy Magland
+projectAuthorEmail: jmagland@flatironinstitute.org
+projectDescription: Spike sorting with intentional over-sorting
+projectUrl: https://github.com/magland/parcelsort
+projectBugTrackerUrl: https://github.com/magland/parcelsort/issues
+pythonPackageDir: .
