@@ -1,10 +1,10 @@
 # parcelsort
 
-At a very early stage. Kind of like spike sorting, but intentionally overclustering. Intended for exploratory research during method development. Small channel count only.
+At a very early stage. Kind of like spike sorting, but intentionally overclustering. Intended for exploratory research during method development.
 
 ## Prerequisites
 
-Install and set up kachery and sortingview. Be sure to upgrade to the latest version of sortingview.
+Install and set up kachery and sortingview. Be sure to upgrade to the latest version of sortingview. Also, remember to set the `FIGURL_CHANNEL` environment variable.
 
 ## Installation
 
